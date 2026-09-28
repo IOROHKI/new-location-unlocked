@@ -19,3 +19,5 @@ a { color:var(--accent); }
 .card strong { display:block; font-family:"Space Grotesk", sans-serif; }
 .card span { color:var(--muted); font-size:14px; }
 footer { margin-top:56px; padding-top:20px; border-top:1px solid var(--rule); color:var(--muted); font-size:13px; }
+.card.join { border-color: var(--accent); background: rgba(74,227,255,.07); }
+.card.join strong { color: var(--accent); }
